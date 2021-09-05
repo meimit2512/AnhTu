@@ -1134,8 +1134,9 @@
 .footer-content-feedback__email {
     height: 45px;
     width: 72%;
-    border-radius: 30px;
+    border-radius: 20px;
     font-size: 1.4rem;
+    outline: none;
 }
 
 .footer-feedback__item {
